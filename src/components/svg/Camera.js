@@ -1,5 +1,6 @@
 import React from "react";
 
+//camera picture
 const Camera = () => {
   return (
     <svg

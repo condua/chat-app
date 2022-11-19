@@ -25,6 +25,9 @@ nav a {
   color: var(--color-2);
   text-decoration: none;
 }
+nav a:hover {
+  color: rgb(3, 3, 3);
+}
 nav div a {
   margin-right: 20px;
 }

@@ -1,5 +1,6 @@
 import React from "react";
 
+//show picture delete
 const Delete = ({ deleteImage }) => {
   return (
     <svg

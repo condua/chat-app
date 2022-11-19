@@ -1,5 +1,6 @@
 import React from "react";
 
+//transfer file picture 
 const Attachment = () => {
   return (
     <svg

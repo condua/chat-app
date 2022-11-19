@@ -1,5 +1,6 @@
 import React from "react";
 
+// thể hiện loading khi đang tải
 const Loading = () => {
   return (
     <div style={{ position: "relative" }}>

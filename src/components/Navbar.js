@@ -11,6 +11,7 @@ const Navbar = () => {
   const history = useHistory();
   const { user } = useContext(AuthContext);
 
+  //Navbar function
   const handleSignout = async () => {
     await updateDoc(doc(db, "users", auth.currentUser.uid), {
       isOnline: false,
