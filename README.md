@@ -6,7 +6,7 @@ first step: npx creat-react-app chat-app
 
 second step: download zip -> extract files -> copy all files -> paste to chap-app folder
 
-final: npm start
+final step: npm start
 
 you can change firebase database into your firebase database.
 
