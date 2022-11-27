@@ -8,6 +8,8 @@ first step: create new react project and install some npm package
             + npm install react-router-dom@5
 
             + npm install react-moment
+            
+            + npm install firebase
 
 second step: download zip -> extract files -> copy all files -> paste to chap-app folder
 
